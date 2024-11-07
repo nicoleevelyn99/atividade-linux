@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # Defina o diretório onde os arquivos de saída serão armazenados
 OUTPUT_DIR=~/nginx_status_logs
 mkdir -p "$OUTPUT_DIR"  # Cria o diretório se não existir
